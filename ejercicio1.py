@@ -13,3 +13,9 @@ print('Jhony Javier Cacuango')
 print ('numero de cedula:1724809239')
 a=1+7+2+4+8+0+9+2+3+9
 print('la suma es:',a)
+
+nombre=" Ahilton Guaras"
+mi_nombre=nombre.split()
+id=1+7+2+4+9+1+2+0+1+7
+print("Nombre: ",mi_nombre)
+print("ID: ", id)
